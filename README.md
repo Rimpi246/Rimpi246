@@ -1,6 +1,6 @@
-<h1 align="center">Konichiwa 👋, <h1>
+<h1 align="center">Konnichiwa 👋, <h1>
   
-  <h3 align="center">I am Rimpi Rani Baruah👩 ,currently a B.tech undergraduate in NIT Silchar📘.I am a passionate full-stack developer and a lover of technology as a whole.
+  <h3 align="center">I am Rimpi Rani Baruah👩 ,currently a B.tech undergraduate in NIT Silchar📘.I am a passionate full-stack developer and an ardent lover of technology as a whole.
 </h3>
 
 
