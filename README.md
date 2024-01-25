@@ -3,7 +3,8 @@
   <h3 align="center">I am Rimpi Rani Baruah👩 ,currently a B.tech undergraduate in NIT Silchar📘.I am a passionate full-stack developer and an ardent lover of technology as a whole.
 </h3>
 
-
+<h4 align="center">Coding Profiles: https://linktr.ee/particle241
+</h4>
 <img align="right" height="200px" width="350px" alt="GIF" src="https://media.giphy.com/media/9igGG6KxpY0eY0Sr5u/giphy.gif" />
 
 
